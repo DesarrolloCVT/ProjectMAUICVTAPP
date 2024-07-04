@@ -299,3 +299,4 @@ C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\ne
 C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\NewsMauiCVT.pdb
 C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\NewsMauiCVT.genruntimeconfig.cache
 C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\NewsMauiCVT.dll
+C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\NewsMauiCVT.sourcelink.json

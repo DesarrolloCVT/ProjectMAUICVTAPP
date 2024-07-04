@@ -11,4 +11,7 @@ Outlook
 
 UserName: DesarrolloCVT
 Mail: desarrollo.cvt@outlook.com
-Password: Cvt.123456
+Password: CVT_desarrollo123456
+
+
+Token GitHub "Total Control": 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
