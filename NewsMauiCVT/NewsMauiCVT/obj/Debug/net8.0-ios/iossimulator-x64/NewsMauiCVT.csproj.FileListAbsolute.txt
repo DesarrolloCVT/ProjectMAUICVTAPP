@@ -259,7 +259,6 @@ C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\bin\Debug\ne
 C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
-C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.inputs
@@ -312,3 +311,4 @@ C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\ne
 C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\net8.0-ios\iossimulator-x64\NewsMauiCVT.pdb
 C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\net8.0-ios\iossimulator-x64\NewsMauiCVT.genruntimeconfig.cache
 C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\net8.0-ios\iossimulator-x64\ref\NewsMauiCVT.dll
+C:\Users\desarrollo\source\repos\APPMAUICVT\NewsMauiCVT\NewsMauiCVT\obj\Debug\net8.0-ios\iossimulator-x64\NewsMauiCVT.sourcelink.json
