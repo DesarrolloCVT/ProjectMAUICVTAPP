@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NewsMauiCVT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4a00a9b777d3a8979d274eb84d878bff612b6444")]
 [assembly: System.Reflection.AssemblyProductAttribute("NewsMauiCVT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NewsMauiCVT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
