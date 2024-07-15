@@ -1,12 +1,154 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|c:\\users\\desarrollo\\source\\repos\\appmauicvt\\newsmauicvt\\newsmauicvt\\views\\actualizatipopallet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|solutionrelative:newsmauicvt\\views\\actualizatipopallet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|c:\\users\\desarrollo\\source\\repos\\appmauicvt\\newsmauicvt\\newsmauicvt\\views\\actualizatipopallet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|solutionrelative:newsmauicvt\\views\\actualizatipopallet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|c:\\users\\desarrollo\\source\\repos\\appmauicvt\\newsmauicvt\\newsmauicvt\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|solutionrelative:newsmauicvt\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|c:\\users\\desarrollo\\source\\repos\\appmauicvt\\newsmauicvt\\newsmauicvt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|solutionrelative:newsmauicvt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|c:\\users\\desarrollo\\source\\repos\\appmauicvt\\newsmauicvt\\newsmauicvt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|solutionrelative:newsmauicvt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|c:\\users\\desarrollo\\source\\repos\\appmauicvt\\newsmauicvt\\newsmauicvt\\views\\calidad_controlhigiene.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|solutionrelative:newsmauicvt\\views\\calidad_controlhigiene.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|c:\\users\\desarrollo\\source\\repos\\appmauicvt\\newsmauicvt\\newsmauicvt\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|solutionrelative:newsmauicvt\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|c:\\users\\desarrollo\\source\\repos\\appmauicvt\\newsmauicvt\\newsmauicvt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9EFA24-780D-4BFF-B99E-28480369BA1B}|NewsMauiCVT\\NewsMauiCVT.csproj|solutionrelative:newsmauicvt\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActualizaTipoPallet.xaml",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\Views\\ActualizaTipoPallet.xaml",
+              "RelativeDocumentMoniker": "NewsMauiCVT\\Views\\ActualizaTipoPallet.xaml",
+              "ToolTip": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\Views\\ActualizaTipoPallet.xaml",
+              "RelativeToolTip": "NewsMauiCVT\\Views\\ActualizaTipoPallet.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T14:43:09.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\MainPage.xaml",
+              "RelativeDocumentMoniker": "NewsMauiCVT\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\MainPage.xaml",
+              "RelativeToolTip": "NewsMauiCVT\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T14:10:28.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActualizaTipoPallet.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\Views\\ActualizaTipoPallet.xaml.cs",
+              "RelativeDocumentMoniker": "NewsMauiCVT\\Views\\ActualizaTipoPallet.xaml.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\Views\\ActualizaTipoPallet.xaml.cs",
+              "RelativeToolTip": "NewsMauiCVT\\Views\\ActualizaTipoPallet.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:26:40.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calidad_ControlHigiene.xaml",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\Views\\Calidad_ControlHigiene.xaml",
+              "RelativeDocumentMoniker": "NewsMauiCVT\\Views\\Calidad_ControlHigiene.xaml",
+              "ToolTip": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\Views\\Calidad_ControlHigiene.xaml",
+              "RelativeToolTip": "NewsMauiCVT\\Views\\Calidad_ControlHigiene.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T12:50:31.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\AppShell.xaml",
+              "RelativeDocumentMoniker": "NewsMauiCVT\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\AppShell.xaml",
+              "RelativeToolTip": "NewsMauiCVT\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T12:50:26.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\App.xaml",
+              "RelativeDocumentMoniker": "NewsMauiCVT\\App.xaml",
+              "ToolTip": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\App.xaml",
+              "RelativeToolTip": "NewsMauiCVT\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T12:50:17.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\App.xaml.cs",
+              "RelativeDocumentMoniker": "NewsMauiCVT\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\App.xaml.cs",
+              "RelativeToolTip": "NewsMauiCVT\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:50:16.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "NewsMauiCVT\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\desarrollo\\source\\repos\\APPMAUICVT\\NewsMauiCVT\\NewsMauiCVT\\MainPage.xaml.cs",
+              "RelativeToolTip": "NewsMauiCVT\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:48:49.944Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

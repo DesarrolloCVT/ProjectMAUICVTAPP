@@ -45,3 +45,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NewsMauiCVT.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/desarrollo/source/repos/APPMAUICVT/NewsMauiCVT/NewsMauiCVT/Views/ActualizaTipoPallet.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NewsMauiCVT.Views.ActualizaTipoPallet.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ActualizaTipoPallet.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ActualizaTipoPallet.xaml
+
+[C:/Users/desarrollo/source/repos/APPMAUICVT/NewsMauiCVT/NewsMauiCVT/Views/Calidad_ControlHigiene.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NewsMauiCVT.Views.Calidad_ControlHigiene.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Calidad_ControlHigiene.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Calidad_ControlHigiene.xaml

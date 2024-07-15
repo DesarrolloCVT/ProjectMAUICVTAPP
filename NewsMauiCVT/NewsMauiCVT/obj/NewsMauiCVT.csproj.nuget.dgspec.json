@@ -34,7 +34,8 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/aF7N2ls7qSQXtGvySAA2e8QNugckalNl2drbxu1FtyyhefPVXC/api/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-android34.0": {
